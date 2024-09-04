@@ -1,11 +1,15 @@
-# Cryptocurrency-Dashboard
-This repository consists of a data analysis project where cryptocurrency data was used and the key findings where visualized using Power BI.
+# Cryptocurrency Dashboard
 
-The dataset was collected from Kaggle https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory?resource=download
+This repository contains a data analysis project focused on cryptocurrency, with key findings visualized using Power BI.
 
-Out of all the crypto currency only BianceCoin, Bitcoin, Dogecoin, Ethereum, NEM, Stellar, and XRP were used for the data visualization. The data was merged on Excel and was cleaned and transformed on Power BI.
+## Project Overview
 
-The Power BI Dashboard looks like
+* Dataset Source: Kaggle
+* Cryptocurrencies Analyzed: BinanceCoin, Bitcoin, Dogecoin, Ethereum, NEM, Stellar, and XRP
+* Data Handling: The dataset was merged in Excel, then cleaned and transformed in Power BI.
+
+## Power BI Dashboard
+The dashboard provides visual insights into the performance and trends of the selected cryptocurrencies.
 
 First Page
 
